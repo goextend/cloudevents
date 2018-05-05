@@ -1,0 +1,25 @@
+{
+  "name": "cloudevents",
+  "version": "0.0.0",
+  "description": "CloudEvents Node.js SDK, coming soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goextend/cloudevents.git"
+  },
+  "keywords": [
+    "cloudevents",
+    "webhooks",
+    "serverless",
+    "cloud"
+  ],
+  "author": "Tomasz Janczuk (tomasz@janczuk.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goextend/cloudevents/issues"
+  },
+  "homepage": "https://github.com/goextend/cloudevents#readme"
+}
